@@ -28,7 +28,6 @@ npm run go
 Then visit [http://localhost:8080](http://localhost:8080) in your browser. You should see an application with the header `Angular 2 Simple Reddit`. 
 
 ## Other Files (advanced)
-###SubSubSub Section
 
 > What are all the other files in this repo?
 
